@@ -511,6 +511,7 @@ public class LookupService {
 
     /**
      * @deprecated use {@link Location#mask}
+     * @return last netmask.
      */
     public int last_netmask() {
         return this.last_netmask;

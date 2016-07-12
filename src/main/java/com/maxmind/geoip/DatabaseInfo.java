@@ -74,7 +74,7 @@ public class DatabaseInfo {
     /**
      * Creates a new DatabaseInfo object given the database info String.
      *
-     * @param info
+     * @param info info.
      */
     public DatabaseInfo(String info) {
         this.info = info;
